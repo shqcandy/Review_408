@@ -13,7 +13,5 @@ int main()
 {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << 1.0 / 2 << endl;
-	int i;
-	cin >> i;
 	return 0;
 }
